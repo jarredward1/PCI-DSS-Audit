@@ -5,7 +5,7 @@
 ![Validation](https://img.shields.io/badge/Validation-SAQ%20D-informational)
 ![Result](https://img.shields.io/badge/Result-Non--Compliant-red)
 
-> A complete PCI DSS compliance audit of SnowBe Online, a fictional e-commerce and retail company preparing to go public. This repository documents the full engagement — planning, scoping, assessment, and final reporting — against the Payment Card Industry Data Security Standard (PCI DSS), following a single audit through its entire lifecycle.
+> A complete PCI DSS compliance audit of SnowBe Online, a fictional e-commerce and retail company preparing to go public. This repository documents the full engagement (planning, scoping, assessment, and final reporting) against the Payment Card Industry Data Security Standard (PCI DSS), following a single audit through its entire lifecycle.
 
 ---
 
