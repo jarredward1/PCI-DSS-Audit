@@ -39,7 +39,7 @@ This repository is organized by audit phase. Each phase builds on the one before
 - [Audit_Plan.pdf](./02-Audit_Plan/Audit_Plan.pdf) — objectives, scope, interviews, team structure, and tooling
 
 ### 📙 03 — Scoping
-- [PCI_Audit.pdf](./03-Scoping/PCI_Audit.pdf) — merchant level determination and SAQ selection rationale
+- [PCI_Audit.pdf](./03-Scoping/PCI_Audit_Scoping.pdf) — merchant level determination and SAQ selection rationale
 
 ### 📕 04 — Assessment
 - [SAQ_D_v3_Merchant.pdf](./04-Assessment/SAQ_D_v3_Merchant.pdf) — completed Self-Assessment Questionnaire D
