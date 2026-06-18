@@ -33,19 +33,19 @@ The audit evaluated SnowBe's ability to protect cardholder data across its full 
 This repository is organized by audit phase. Each phase builds on the one before it.
 
 ### 📘 01 — Case Study
-- [Audit_Case_Study.pdf](./01-case-study/Audit_Case_Study.pdf) — the SnowBe scenario and technical environment
+- [Audit_Case_Study.pdf](./01-Case_Study/Audit_Case_Study.pdf) — the SnowBe scenario and technical environment
 
 ### 📗 02 — Audit Plan
-- [Audit_Plan.pdf](./02-audit-plan/Audit_Plan.pdf) — objectives, scope, interviews, team structure, and tooling
+- [Audit_Plan.pdf](./02-Audit_Plan/Audit_Plan.pdf) — objectives, scope, interviews, team structure, and tooling
 
 ### 📙 03 — Scoping
-- [PCI_Audit.pdf](./03-scoping/PCI_Audit.pdf) — merchant level determination and SAQ selection rationale
+- [PCI_Audit.pdf](./03-Scoping/PCI_Audit.pdf) — merchant level determination and SAQ selection rationale
 
 ### 📕 04 — Assessment
-- [SAQ_D_v3_Merchant.pdf](./04-assessment/SAQ_D_v3_Merchant.pdf) — completed Self-Assessment Questionnaire D
+- [SAQ_D_v3_Merchant.pdf](./04-Assessment/SAQ_D_v3_Merchant.pdf) — completed Self-Assessment Questionnaire D
 
 ### 📒 05 — Audit Report
-- [Audit_Report.pdf](./05-audit-report/Audit_Report.pdf) — findings, risk analysis, and remediation recommendations
+- [Audit_Report.pdf](./05-Audit_Report/Audit_Report.pdf) — findings, risk analysis, and remediation recommendations
 
 ---
 
@@ -59,7 +59,7 @@ The final report identified five areas of non-compliance:
 4. **Weak access control and authentication** — inconsistent role-based access and use of shared credentials.
 5. **No data-retention or disposal processes** — no defined policy for retaining or securely disposing of cardholder data.
 
-Each finding includes a root-cause analysis, risk impact, and prioritized remediation guidance in the [audit report](./05-audit-report/Audit_Report.pdf).
+Each finding includes a root-cause analysis, risk impact, and prioritized remediation guidance in the [audit report](./05-Audit_Report/Audit_Report.pdf).
 
 ---
 
