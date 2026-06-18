@@ -1,4 +1,4 @@
-# PCI DSS Audit Utilizing SAQ D and Merchant Level 2 Scoping
+# End-to-End PCI DSS Compliance Audit (SAQ D, Merchant Level 2)
 
 ![Standard](https://img.shields.io/badge/Standard-PCI%20DSS-blue)
 ![Merchant Level](https://img.shields.io/badge/Merchant%20Level-2-orange)
